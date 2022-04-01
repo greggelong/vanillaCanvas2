@@ -1,7 +1,7 @@
 # vanillaCanvas2
 
 
-playing with the 2d vanillia js canvas api
+playing with the 2d vanilla js canvas api
 
 following a great tutorial
 
