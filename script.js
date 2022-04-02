@@ -9,8 +9,8 @@ window.addEventListener('load', function(){
     let spread;
    
     //set width and height
-    canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
+    canvas.width = 800//window.innerWidth;
+    canvas.height = 800//window.innerHeight;
 
     // button control
     const mybutton = this.document.getElementById('mybutton');
